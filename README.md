@@ -1,5 +1,9 @@
 ## Hi there 👋
+A freshman in BUPT,  interesting in AI developing, Embedded Development and algorithm learning.
 
+Dreaming to become an animator.
+
+** Nice to meet u~ **
 <!--
 **WangJie-Mant/Wangjie-Mant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
